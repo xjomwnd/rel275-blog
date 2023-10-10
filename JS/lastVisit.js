@@ -15,4 +15,5 @@ if (numVisits !== 0) {
 // increment the number of visits.
 numVisits++;
 // store the new number of visits value
-localStorage.setItem("
+localStorage.setItem("visits-ls", numVisits);
+// show todays date.
