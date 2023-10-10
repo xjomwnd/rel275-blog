@@ -12,8 +12,8 @@ header {
     padding: 20px 0;
 }
 nav {
-    background-color: #444;
-    color: #e9e4e4;
+    background-color: #b4c0d4;
+    color: #311288;
     text-align: center;
     padding: 10px 0;
 }
@@ -30,7 +30,7 @@ nav li {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
-    background-color: #e9e4e4;
+    background-color: #fff;
     border: 1px solid #ddd;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
